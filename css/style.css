@@ -50,6 +50,7 @@
 .choice{
    padding-top: 10px;
    line-height: 1.8;
+   cusrsor:pointer;
 }
 .choice h2{
    border-bottom: 1px solid #51557E;
